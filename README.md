@@ -491,3 +491,7 @@ Constraint][pvc] with two digits of precision. For example:
 ## License
 
 {include:file:LICENSE.md}
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rmetzler/octokit.rb/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
